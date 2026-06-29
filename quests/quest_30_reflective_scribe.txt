@@ -1,6 +1,0 @@
-For this quest we went back to three previously completed scripts and added comments explaining what each part of the code does and why.
-
-Files updated:
-- quest_05_echoing_cave.py
-- quest_10_architects_blueprint.py
-- quest_15_nested_riddle.py
