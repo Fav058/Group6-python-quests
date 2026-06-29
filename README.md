@@ -1,2 +1,2 @@
-# group6-python-quests
+# Group6-python-quests
 Python Quests Assignment - Group 6
